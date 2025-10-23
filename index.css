@@ -11,7 +11,7 @@ body
     font-family: "Roboto", "Noto Sans SC", "Segoe UI", "Microsoft YaHei", sans-serif;
     color: #333; 
     line-height: 1.6;
-    background-image: url("/image/背景图1.JPG");
+    background-image: url("./image/背景图1.JPG");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
