@@ -11,11 +11,10 @@ body
     font-family: "Roboto", "Noto Sans SC", "Segoe UI", "Microsoft YaHei", sans-serif;
     color: #333; 
     line-height: 1.6;
-    background-image: url("背景图1.JPG");
+    background-image: url("背景图1.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    /* background-image: url("https://www.transparenttextures.com/patterns/billie-holiday.png"); */
 }
 html 
 { 
