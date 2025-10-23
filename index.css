@@ -43,7 +43,13 @@ nav
   align-items: center;
 
 }
-nav h1
+nav div
+{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+nav div p
 { 
     font-size: 30px; 
     color: #005bbb; 
@@ -100,7 +106,7 @@ nav ul li a:hover
 .banner-text 
 {
   position: absolute; 
-  top: 5%; 
+  top: 3%; 
   width: 100%;
   text-align: center; 
   color:#005bbb; 
@@ -109,11 +115,12 @@ nav ul li a:hover
 {
     color: #005bbb; 
     font-size: 36px; 
-    margin-bottom: 10px;
+    margin-bottom: 40px;
     font-weight: bold; 
 }
 .banner-text p 
 { 
+    color: #333;
     font-size: 18px; 
 } 
 
